@@ -1,0 +1,4 @@
+selenium==3.141.0
+requests==2.21.0
+telepot==12.7
+pyproj==1.9.6
